@@ -1,0 +1,3 @@
+BATCH_SIZE = 16
+LEARNING_RATE = 0.01
+MODEL_NAME = "baseline"
